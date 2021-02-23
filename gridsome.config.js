@@ -6,5 +6,6 @@
 
 module.exports = {
   siteName: 'assaultli.ly',
+  titleTemplate: 'assaultli.ly',
   plugins: []
 }
