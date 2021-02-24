@@ -218,7 +218,40 @@
 </template>
 
 <script>
-export default {};
+export default {
+  metaInfo: {
+    meta: [
+      {
+        property: "og:site_name",
+        content: "assaultli.ly",
+      },
+      {
+        property: "og:type",
+        content: "website",
+      },
+      {
+        property: "og:url",
+        content: "https://assaultli.ly",
+      },
+      {
+        property: "og:title",
+        content: "assaultli.ly",
+      },
+      {
+        property: "og:description",
+        content: "アサルトリリィ非公式リンク集",
+      },
+      {
+        property: "og:image",
+        content: "https://assaultli.ly/favicon.png",
+      },
+      {
+        name: "twitter:card",
+        content: "summary",
+      },
+    ],
+  },
+};
 </script>
 
 <style>
