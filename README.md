@@ -1,3 +1,6 @@
+**このリポジトリは今後更新されません。  
+以降の更新は [assaultli-ly/assaultli.ly](https://github.com/assaultli-ly/assaultli.ly) にて行われます。**
+
 # assaultli.ly
 
 アサルトリリィ関連情報をまとめます。修正は PR とか issue とかで。
